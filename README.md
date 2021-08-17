@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheCastaM
+- 👀 I’m interested in develpment of games
+- 🌱 I’m currently learning C# with unity and Python
+- 💞️ I’m looking to collaborate on a game
+- 📫 How to reach me contact me at my mail tomasoctaviocastagnino@gmail.com
